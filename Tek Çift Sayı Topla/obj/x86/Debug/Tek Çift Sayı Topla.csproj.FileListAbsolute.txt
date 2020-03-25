@@ -1,0 +1,14 @@
+C:\Users\murat\Desktop\MURAT\New folder\Tek Çift Sayı Topla\Tek Çift Sayı Topla\bin\Debug\Tek Çift Sayı Topla.exe
+C:\Users\murat\Desktop\MURAT\New folder\Tek Çift Sayı Topla\Tek Çift Sayı Topla\bin\Debug\Tek Çift Sayı Topla.pdb
+C:\Users\murat\Desktop\MURAT\New folder\Tek Çift Sayı Topla\Tek Çift Sayı Topla\obj\x86\Debug\Tek_Çift_Sayı_Topla.Form1.resources
+C:\Users\murat\Desktop\MURAT\New folder\Tek Çift Sayı Topla\Tek Çift Sayı Topla\obj\x86\Debug\Tek_Çift_Sayı_Topla.Properties.Resources.resources
+C:\Users\murat\Desktop\MURAT\New folder\Tek Çift Sayı Topla\Tek Çift Sayı Topla\obj\x86\Debug\Tek Çift Sayı Topla.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\MURAT\New folder\Tek Çift Sayı Topla\Tek Çift Sayı Topla\obj\x86\Debug\Tek Çift Sayı Topla.exe
+C:\Users\murat\Desktop\MURAT\New folder\Tek Çift Sayı Topla\Tek Çift Sayı Topla\obj\x86\Debug\Tek Çift Sayı Topla.pdb
+E:\04 - Yazılım\04 - Form Projeleri\104 Tek Çift Sayı Topla\Tek Çift Sayı Topla\obj\x86\Debug\Tek Çift Sayı Topla.exe
+E:\04 - Yazılım\04 - Form Projeleri\104 Tek Çift Sayı Topla\Tek Çift Sayı Topla\obj\x86\Debug\Tek Çift Sayı Topla.pdb
+E:\04 - Yazılım\04 - Form Projeleri\104 Tek Çift Sayı Topla\Tek Çift Sayı Topla\bin\Debug\Tek Çift Sayı Topla.exe
+E:\04 - Yazılım\04 - Form Projeleri\104 Tek Çift Sayı Topla\Tek Çift Sayı Topla\bin\Debug\Tek Çift Sayı Topla.pdb
+E:\04 - Yazılım\04 - Form Projeleri\104 Tek Çift Sayı Topla\Tek Çift Sayı Topla\obj\x86\Debug\Tek_Çift_Sayı_Topla.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\104 Tek Çift Sayı Topla\Tek Çift Sayı Topla\obj\x86\Debug\Tek_Çift_Sayı_Topla.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\104 Tek Çift Sayı Topla\Tek Çift Sayı Topla\obj\x86\Debug\Tek Çift Sayı Topla.csproj.GenerateResource.Cache
